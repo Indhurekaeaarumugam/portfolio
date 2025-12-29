@@ -47,7 +47,7 @@ nav ul li a:hover{
 
 /* Header */
 header{
-    background: linear-gradient(to right, #ff512f, #dd2476);
+    background: linear-gradient(to right, #2fff97, #b224dd);
     color: white;
     text-align: center;
     padding: 50px 20px;
@@ -149,4 +149,5 @@ footer{
     text-align: center;
     padding: 15px;
     margin-top: 150px;
+
 }
